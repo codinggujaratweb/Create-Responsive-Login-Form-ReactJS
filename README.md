@@ -1,5 +1,8 @@
 # Login Form in ReactJS Guide
 
+### 🌟 Live Preview: [Check it out here](https://codinggujaratweb.github.io/Create-Responsive-Login-Form-ReactJS/)
+
+
 ## Open the Project
 1. Open the project folder in your VS Code.
 
@@ -12,6 +15,8 @@ Click on the `localhost` link that appears in the terminal to open the project i
 
 If you get an error or get stuck, feel free to message me on Buy Me a Coffee.
 [Buy Me A Coffee](https://www.buymeacoffee.com/codinggujarat)
+### 💙 Join the channel to see more videos like this. [CodingGujarat](https://www.youtube.com/@CodingGujarat)
+![preview img](/preview.png)
 
 ---
 
